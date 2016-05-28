@@ -45,9 +45,9 @@ To download files
       Download files from s3
 
     Options:
-      --month TEXT  Month to process
-      --day TEXT    Day to process
-      --help        Show this message and exit.
+     --month TEXT  Month to process
+     --day TEXT    Day to process
+     --help        Show this message and exit.
 
     # Start dowloading for a particular day
     $python3 bin/download-files download --month 201605 --day 2016-05-01
