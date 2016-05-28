@@ -9,7 +9,7 @@ Setup
 
     $ virtualenv env 
     $ . env/bin/activate 
-    $ pip install -r install/requirements.txt 
+    $ pip3 install -r install/requirements.txt 
 
     # Make sure you are using python3 alone 
     $ sudo apt-get install python3-pip
