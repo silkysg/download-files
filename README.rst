@@ -4,9 +4,8 @@ Download files from S3
 Setup
 
     $ cd ../download-files
-
-    $ virtualenv env 
-    $ . env/bin/activate 
+    $ virtualenv env
+    $ . env/bin/activate
     $ pip3 install -r install/requirements.txt 
 
     # Make sure you are using python3 alone 
